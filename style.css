@@ -76,3 +76,26 @@ main p span {
     margin-top: 20px;
 }
 
+table {
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+th, td {
+  padding: 2px 8px 0;
+  text-align: left;
+}
+
+thead {
+    background-color: lightskyblue;
+}
+
+tbody {
+    background-color: #B7EDFA;
+}
+
+#third-row {
+    background-color: white;
+}
+
+
