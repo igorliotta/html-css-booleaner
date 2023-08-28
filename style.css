@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     width: 1100px;
-    height: auto;
 }
 
 header {
@@ -70,5 +69,10 @@ section p {
 main p span {
     background-color: yellow;
     color: black;
+}
+
+.list {
+    margin-left: 38px;
+    margin-top: 20px;
 }
 
